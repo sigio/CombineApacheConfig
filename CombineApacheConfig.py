@@ -1,10 +1,6 @@
-
-
 #!/usr/bin/python2.7
 # CombineApacheConfig.py 
 
-#!/usr/bin/python2.7
-# CombineApacheConfig.py 
 __author__ = 'ben'
 import sys, os, os.path, logging, fnmatch, re
 
